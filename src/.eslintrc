@@ -7,9 +7,7 @@
   },
   "parser": "babel-eslint",
   "rules": {
-    "import/newline-after-import": ["warn", { "count": 1 }],
-    
-
+    "import/newline-after-import": "off",
     "no-plusplus": [0],
     "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
     "react/prop-types": [0],
